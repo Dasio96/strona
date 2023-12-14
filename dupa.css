@@ -76,5 +76,7 @@ p{
     grid-template-columns: (200px, 1fr);
 }
 .majones{
-    width="25px" ;
-    height="25px";}
+    width: 25px;
+    height: 25px;
+
+}
