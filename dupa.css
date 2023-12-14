@@ -73,7 +73,7 @@ p{
 .majonezlista{
     font-size: 30px;
     display: grid;
-    grid-template-columns: (200px, 1fr);
+    grid-template-columns: (200px 1fr);
 }
 .majones{
     width: 25px;
