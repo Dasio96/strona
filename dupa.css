@@ -1,0 +1,77 @@
+#dupa{
+    width: 150px;
+    height: 150px;
+    border-radius: 45px;
+}
+
+#dupa1{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(34,37,203,1) 35%, rgba(0,212,255,1) 100%);
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 60px;
+
+}
+*{padding: 0; margin: 0;}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+h1{
+    font-family: 'Coming Soon', cursive;
+    color: pink;
+    text-decoration: wavy;
+    text-align: center;
+    font-size: 50px;
+}
+
+#dupa3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 60px;
+}
+#obrazek{
+    width: 300px;
+    height: 300px;
+
+}
+p{
+    font-size: 30px;
+    font-family: 'Coming Soon', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+.cos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#majonezlista{
+    font-size: 30px;
+    display: grid;
+    grid-template-columns: (200px, 1fr);
+}
